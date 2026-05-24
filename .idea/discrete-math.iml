@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/bloco1_inducao" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/bloco2_pares_ordenados" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/bloco3_combinatoria" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/bloco4_binomio_newton" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/bloco5_multinomial" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/binomio_newton" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/combinatoria" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/inducao" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/multinomial" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/pares_tuplas" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
